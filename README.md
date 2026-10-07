@@ -7,7 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%7C+Selenium+%7C+PyTest;Java+%7C+MySQL+%7C+API+Testing;AI%2FML+Enthusiast;Building.+Testing.+Learning." alt="Typing SVG">
 
 </div>
-<hr>
+<table width="100%" style="table-layout: fixed;">
+<tr>
+
+<td width="50%" valign="top">
 
 <h2>👋 ~/about</h2>
 
@@ -17,15 +20,54 @@
 
 Name        : Pranesh M
 Role        : Software Engineer
-Education   : B.Tech — Artificial Intelligence & Data Science
+Education   : B.Tech — AI & DS
 Experience  : EPAM Systems
 Interests   : Software Development • Automation • AI/ML
 
-I enjoy building practical software, solving problems,
+I enjoy building practical software, solving problems,        
 automating repetitive tasks, and continuously learning
 new technologies.
 </pre>
-<hr>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>💼 ~/experience</h2>
+
+<pre>
+┌──(pranesh㉿github)-[~/experience]
+└─$ cat experience.log
+
+[01] EPAM Systems
+     Automation Testing Intern
+
+     Selenium • PyTest • REST APIs
+     Automation Frameworks • Git • Agile            
+
+[02] Zidio Development
+     Data Science & Analytics Intern
+
+     Python • NumPy • Pandas
+     EDA • Machine Learning • Matplotlib
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <h2>🛠️ ~/skills</h2>
 
@@ -34,7 +76,7 @@ new technologies.
 └─$ ls
 
 LANGUAGES
-├── Python
+├── Python                     
 ├── Java
 └── MySQL
 
@@ -59,40 +101,14 @@ TOOLS
 
 CONCEPTS
 ├── OOP
-├── Data Structures & Algorithms
+├── Data Structures & Algorithms                                
 ├── Design Patterns
 └── Test Automation Frameworks
 </pre>
-<hr>
 
-<h2>💼 ~/experience</h2>
+</td>
 
-<pre>
-┌──(pranesh㉿github)-[~/experience]
-└─$ cat experience.log
-
-[01] EPAM Systems India Pvt. Ltd.
-    Role     : Automation Testing Intern
-    Period   : Jan 2026 — Jun 2026
-
-    • Built UI automation tests using Selenium & PyTest
-    • Worked on REST API test automation
-    • Developed reusable automation components
-    • Applied OOP and clean coding practices
-    • Debugged test failures and maintained test scripts
-    • Used Git in an Agile development environment
-
-
-[02] Zidio Development
-    Role     : Data Science & Analytics Intern
-    Period   : May 2024 — Jun 2024
-
-    • Performed data preprocessing and exploratory analysis
-    • Worked with Python, NumPy & Pandas
-    • Created visualizations using Matplotlib
-    • Applied statistical analysis and machine learning
-</pre>
-<hr>
+<td width="50%" valign="top">
 
 <h2>🏆 ~/achievements</h2>
 
@@ -101,33 +117,40 @@ CONCEPTS
 └─$ cat achievements.log
 
 [01] IEEE Publication
-     Real-Time Log Intelligence Framework with Explainable ML
-     for Automated Root Cause Analysis in Distributed Systems
-     IEEE ICDCA 2026
 
+Real-Time Log Intelligence Framework               
+with Explainable ML for Automated
+Root Cause Analysis in Distributed Systems
+
+IEEE ICDCA 2026
 
 [02] Indian Patent
-     AI-Powered Road Condition Analyzer
-     for Smart Navigation Systems
-     Patent Application No. 202541025731 A
 
+AI-Powered Road Condition Analyzer
+for Smart Navigation Systems
+
+Patent Application No.
+202541025731 A
 
 [03] Paper Presentation Winner
-     TECHNOVANZA'24
-
+TECHNOVANZA'24
 
 [04] Leadership
-     President — Communication Club
-     Event Coordinator — TALKATHON 2K25
 
+President — Communication Club
+Event Coordinator — TALKATHON 2K25
 
 [05] Certifications
-     Microsoft GitHub Copilot Certification
-     Coursera — Crash Course on Python
-     Scalar — Java Bootcamp
+
+Microsoft GitHub Copilot Certification
+Coursera — Crash Course on Python
+Scalar — Java Bootcamp
 </pre>
 
-<hr>
+</td>
+
+</tr>
+</table>
 
 <h2>📚 ~/LEARNING</h2>
 
