@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>PRANESH M</h1>
-
-<h3>Software Engineer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%7C+Selenium+%7C+PyTest;Java+%7C+MySQL+%7C+API+Testing;AI%2FML+Enthusiast;Building.+Testing.+Learning." alt="Typing SVG">
+<img src="./hero.png" width="100%" alt="Pranesh M - Software Engineer">
 
 </div>
+
+<hr>
 <table width="100%" style="table-layout: fixed;">
 <tr>
 
